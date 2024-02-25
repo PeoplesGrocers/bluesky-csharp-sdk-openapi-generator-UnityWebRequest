@@ -1,0 +1,7 @@
+{
+    "name": "Bluesky",
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Newtonsoft.Json.dll"
+    ]
+}
